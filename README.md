@@ -1,1 +1,2 @@
-# projeto-login-vitor-S
+# prjoeto-login
+um projeto de cadastro e gerenciamento de clientes
